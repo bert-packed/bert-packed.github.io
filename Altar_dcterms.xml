@@ -14,7 +14,7 @@
     <dcterms:extent>Breedte: 90cm</dcterms:extent>
     <dcterms:extent>Diepte: 5cm</dcterms:extent>
     <dcterms:rights>Tuymans, Luc</dcterms:rights>
-    <europeana:isShownBy>http://resolver.be/collection/work/representation/BK_4709</europeana:isShownBy>
-    <europeana:isShownAt>http://resolver.be/collection/work/data/BK_4709</europeana:isShownAt>
-    <europeana:rights>Copyright M HKA</europeana:rights>
+    <dcterms:isFormatOf>http://resolver.be/collection/work/representation/BK_4709</dcterms:isFormatOf>
+    <dcterms:isReferencedBy>http://resolver.be/collection/work/data/BK_4709</dcterms:isReferencedBy>
+    <dcterms:rights>Copyright M HKA</dcterms:rights>
 </metadata>metadata
